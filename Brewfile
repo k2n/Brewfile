@@ -8,6 +8,7 @@ cask 1password
 cask bartender
 cask dropbox
 cask dterm
+cask evernote
 cask fantastical
 cask google-chrome
 cask intellij-idea-ce
@@ -49,8 +50,10 @@ brew openssl
 brew pcre
 brew pkg-config
 brew protobuf
+brew python
 brew readline
 brew sbt
+brew sqlite
 brew task
 brew terminal-notifier
 brew the_silver_searcher
