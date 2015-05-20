@@ -6,6 +6,7 @@ tap caskroom/cask
 brew brew-cask
 cask 1password
 cask bartender
+cask dbvisualizer
 cask dropbox
 cask dterm
 cask evernote
@@ -39,6 +40,7 @@ brew boot2docker
 brew ctags
 brew docker
 brew gdbm
+brew gnu-tar
 brew graphviz
 brew grc
 brew leiningen
