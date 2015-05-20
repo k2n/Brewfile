@@ -64,4 +64,5 @@ brew tmux
 brew vim
 brew w3m
 brew xz
+brew zinc
 brew zsh
