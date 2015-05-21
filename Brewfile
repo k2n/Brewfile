@@ -18,6 +18,7 @@ cask iterm2
 cask karabiner
 cask mailplane
 cask moom
+cask mou
 cask skitch
 cask skype
 cask slack
