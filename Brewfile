@@ -16,6 +16,7 @@ cask intellij-idea-ce
 cask istat-menus
 cask iterm2
 cask karabiner
+cask launchcontrol
 cask mailplane
 cask moom
 cask mou
@@ -49,6 +50,7 @@ brew libevent
 brew libpng
 brew mobile-shell
 brew mysql
+brew node
 brew openssl
 brew pcre
 brew pkg-config
