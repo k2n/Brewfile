@@ -62,6 +62,7 @@ brew pkg-config
 brew protobuf
 brew python
 brew readline
+brew sbcl
 brew sbt
 brew sqlite
 brew task
@@ -78,4 +79,6 @@ brew zinc
 brew zsh
 
 # App Store applications
+appstore 1Password
 appstore Pocket
+appstore Xcode
