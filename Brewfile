@@ -48,6 +48,7 @@ brew gdbm
 brew gnu-tar
 brew graphviz
 brew grc
+brew htop-osx
 brew jpeg
 brew leiningen
 brew libevent
@@ -60,6 +61,7 @@ brew openssl
 brew pcre
 brew pkg-config
 brew protobuf
+brew pv
 brew python
 brew readline
 brew sbcl
