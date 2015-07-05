@@ -80,5 +80,6 @@ brew zsh
 
 # App Store applications
 appstore 1Password
+appstore Kindle
 appstore Pocket
 appstore Xcode
