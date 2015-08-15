@@ -38,6 +38,7 @@ tap rcmdnk/file
 brew brew-file
 
 # Other Homebrew packages
+brew awscli
 brew bdw-gc
 brew boot2docker
 brew ctags
@@ -46,20 +47,25 @@ brew elixir
 brew erlang
 brew gdbm
 brew gnu-tar
+brew go
 brew graphviz
 brew grc
+brew hadoop
 brew htop-osx
 brew jpeg
+brew jq
 brew leiningen
 brew libevent
 brew libpng
 brew libtiff
+brew maven
 brew mobile-shell
 brew mysql
 brew node
 brew openssl
 brew pcre
 brew pkg-config
+brew plantuml
 brew protobuf
 brew pv
 brew python
@@ -73,7 +79,7 @@ brew the_silver_searcher
 brew tig
 brew tmux
 brew unixodbc
-brew vim
+brew vim --HEAD
 brew w3m
 brew wxmac
 brew xz
@@ -81,7 +87,7 @@ brew zinc
 brew zsh
 
 # App Store applications
-appstore 1Password
 appstore Kindle
 appstore Pocket
+appstore Webcam Settings
 appstore Xcode
