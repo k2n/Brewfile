@@ -4,7 +4,6 @@
 ## caskroom/cask
 tap caskroom/cask
 brew brew-cask
-cask 1password
 cask adobe-reader
 cask bartender
 cask dbvisualizer
