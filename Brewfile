@@ -28,7 +28,7 @@ cask virtualbox
 ## homebrew/versions
 tap homebrew/versions
 brew mongodb26
-brew redis26
+brew redis
 
 ## rcmdnk/file
 tap rcmdnk/file
