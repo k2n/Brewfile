@@ -27,10 +27,8 @@ cask virtualbox
 
 ## homebrew/versions
 tap homebrew/versions
-brew boot2docker133
-brew docker133
 brew mongodb26
-brew redis24
+brew redis26
 
 ## rcmdnk/file
 tap rcmdnk/file
